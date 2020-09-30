@@ -1,4 +1,7 @@
 # hello-world
-my first repository! 
-Hello
+
+This is my first repository! 
+
+I like sci-fi, tea, and my baby.
+
 Let's go! 
